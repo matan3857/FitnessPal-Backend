@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27d5d987.chunk.css",
+    "main.js": "/static/js/main.861de578.chunk.js",
+    "main.js.map": "/static/js/main.861de578.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.840324ce.js",
+    "runtime-main.js.map": "/static/js/runtime-main.840324ce.js.map",
+    "static/js/2.fdddde2b.chunk.js": "/static/js/2.fdddde2b.chunk.js",
+    "static/js/2.fdddde2b.chunk.js.map": "/static/js/2.fdddde2b.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/main.27d5d987.chunk.css.map": "/static/css/main.27d5d987.chunk.css.map",
+    "static/js/2.fdddde2b.chunk.js.LICENSE.txt": "/static/js/2.fdddde2b.chunk.js.LICENSE.txt",
+    "static/media/ABS.png": "/static/media/ABS.0e3a80b6.png",
+    "static/media/Arm.png": "/static/media/Arm.143a8817.png",
+    "static/media/Back.png": "/static/media/Back.951b713f.png",
+    "static/media/Chest.png": "/static/media/Chest.fc18461c.png",
+    "static/media/Eighth.a339212d.jpg": "/static/media/Eighth.a339212d.jpg",
+    "static/media/First.bee87475.jpg": "/static/media/First.bee87475.jpg",
+    "static/media/Fiveth.6b6683fe.jpg": "/static/media/Fiveth.6b6683fe.jpg",
+    "static/media/Fourth.a46b4892.jpg": "/static/media/Fourth.a46b4892.jpg",
+    "static/media/main.scss": "/static/media/Montserrat-Regular.ac98a5f5.ttf",
+    "static/media/Legs.png": "/static/media/Legs.dc77d681.png",
+    "static/media/Second.67c3f2c7.jpg": "/static/media/Second.67c3f2c7.jpg",
+    "static/media/Seventh.e11f0f67.jpg": "/static/media/Seventh.e11f0f67.jpg",
+    "static/media/Shoulder.png": "/static/media/Shoulder.ead4cbe1.png",
+    "static/media/Sixth.4066dda9.jpg": "/static/media/Sixth.4066dda9.jpg",
+    "static/media/Third.297af21d.jpg": "/static/media/Third.297af21d.jpg",
+    "static/media/hero-my-menus.2754de6c.jpg": "/static/media/hero-my-menus.2754de6c.jpg",
+    "static/media/hero-my-workouts.png": "/static/media/hero-my-workouts.ffc4cf73.png",
+    "static/media/logo.7355561b.jpg": "/static/media/logo.7355561b.jpg",
+    "static/media/no-img.1edd6fd3.svg": "/static/media/no-img.1edd6fd3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.840324ce.js",
+    "static/js/2.fdddde2b.chunk.js",
+    "static/css/main.27d5d987.chunk.css",
+    "static/js/main.861de578.chunk.js"
+  ]
+}
