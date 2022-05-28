@@ -5549,3 +5549,5 @@
 19.5.2022, 18:38:24 - DEBUG - auth.service - login with username: nir
 19.5.2022, 18:38:32 - DEBUG - auth.service - login with username: matan3857@walla.co.il
 19.5.2022, 18:38:39 - DEBUG - auth.service - login with username: nir
+28.5.2022, 20:14:22 - INFO - Server is running on port: 3030
+28.5.2022, 20:14:53 - DEBUG - auth.service - login with username: user
