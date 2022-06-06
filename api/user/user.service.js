@@ -19,8 +19,7 @@ async function query(filterBy = {}) {
         var users = await collection.find(criteria).toArray()
         users = users.map(user => {
             delete user.password
-            user.isHappy = true
-            user.createdAt = ObjectId(user._id).getTimestamp()
+            // user.createdAt = ObjectId(user._id).getTimestamp()
             // Returning fake fresh data
             // user.createdAt = Date.now() - (1000 * 60 * 60 * 24 * 3) // 3 days ago
             return user
@@ -55,6 +54,7 @@ async function getByUsername(username) {
 }
 
 async function remove(userId) {
+    console.log('Deleted',userId)
     try {
         const collection = await dbService.getCollection('user')
         await collection.deleteOne({ '_id': ObjectId(userId) })
@@ -96,7 +96,7 @@ async function add(user) {
             imgUrl: '',
             workouts: [],
             nutritionMenus: [],
-            weight: [{weight: '90', date: 1640829196982},{weight: '87', date: 1638829196982},{weight: '86', date: 1632829196982},{weight: '88', date: 1627829196982},{weight: '85', date: 1621829196982}],
+            weight: [],
             isAdmin: false,
         }
         const collection = await dbService.getCollection('user')

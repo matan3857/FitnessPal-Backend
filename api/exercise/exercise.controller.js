@@ -1,18 +1,6 @@
 const exerciseService = require('./exercise.service.js');
 const logger = require('../../services/logger.service')
 
-// GET LIST
-// async function getExercises(req, res) {
-//   try {
-//     var queryParams = req.query;
-//     const exercises = await exerciseService.query(JSON.parse(queryParams.params))
-//     res.json(exercises);
-//   } catch (err) {
-//     logger.error('Failed to get exercises', err)
-//     res.status(500).send({ err: 'Failed to get exercises' })
-//   }
-// }
-
 // GET LIST exercises
 async function getExercises(req, res) {
   try {

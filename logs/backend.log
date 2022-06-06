@@ -5558,3 +5558,91 @@
 28.5.2022, 20:29:42 - DEBUG - auth.service - login with username: user
 28.5.2022, 20:29:58 - DEBUG - auth.service - login with username: matan3857@walla.co.il
 28.5.2022, 20:30:09 - DEBUG - auth.service - login with username: matan3857@walla.co.il
+3.6.2022, 19:19:05 - INFO - Server is running on port: 3030
+3.6.2022, 19:19:34 - INFO - Server is running on port: 3030
+3.6.2022, 19:20:04 - DEBUG - auth.service - login with username: user
+4.6.2022, 13:23:35 - INFO - Server is running on port: 3030
+4.6.2022, 13:25:13 - DEBUG - auth.service - login with username: nir
+4.6.2022, 13:30:48 - DEBUG - auth.service - login with username: user
+4.6.2022, 13:30:54 - DEBUG - auth.service - login with username: nir
+4.6.2022, 13:31:51 - DEBUG - auth.service - login with username: user
+4.6.2022, 13:32:02 - DEBUG - auth.service - login with username: nir
+4.6.2022, 13:55:09 - INFO - Server is running on port: 3030
+4.6.2022, 14:04:34 - DEBUG - auth.service - login with username: nir
+4.6.2022, 14:04:45 - INFO - Req!!!
+4.6.2022, 14:04:45 - INFO - Req from: Nir Avisror
+4.6.2022, 14:28:30 - DEBUG - auth.service - signup with username: kaka, fullname: kaka
+4.6.2022, 14:28:30 - DEBUG - auth.route - new account created: {"username":"kaka","fullname":"kaka","password":"$2b$10$JjsH85IsTIdlAGP11F7IRebfmKvELVMtAsrYLtJco9FDzAFN.36I.","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b41debee50fe85e0654a8"}
+4.6.2022, 14:28:30 - DEBUG - auth.service - login with username: kaka
+4.6.2022, 14:28:42 - DEBUG - auth.service - signup with username: lala, fullname: lala
+4.6.2022, 14:28:42 - DEBUG - auth.route - new account created: {"username":"lala","fullname":"lala","password":"$2b$10$KVq4jN7zLC1g0.823dQk3uiTKmtZASQNROlFbV.rWreI/G74n594G","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b41eabee50fe85e0654a9"}
+4.6.2022, 14:28:42 - DEBUG - auth.service - login with username: lala
+4.6.2022, 14:28:48 - DEBUG - auth.service - login with username: nir
+4.6.2022, 14:33:40 - INFO - Server is running on port: 3030
+4.6.2022, 14:36:34 - INFO - Server is running on port: 3030
+4.6.2022, 14:38:13 - INFO - Server is running on port: 3030
+4.6.2022, 14:38:32 - DEBUG - auth.service - login with username: nir
+4.6.2022, 14:41:29 - DEBUG - auth.service - signup with username: lala, fullname: lala
+4.6.2022, 14:41:29 - DEBUG - auth.route - new account created: {"username":"lala","fullname":"lala","password":"$2b$10$elmA7N56iMtBVM14LZs84us/HdEE0zvchzvGxaHp1NnF4qZcqw9iu","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b44e948b2bd8d16ed1608"}
+4.6.2022, 14:41:29 - DEBUG - auth.service - login with username: lala
+4.6.2022, 14:41:38 - DEBUG - auth.service - signup with username: dsada, fullname: dsada
+4.6.2022, 14:41:39 - DEBUG - auth.route - new account created: {"username":"dsada","fullname":"dsada","password":"$2b$10$5d.GhpOmvx5L/6gya8hzeuvPD6mg.iwBPmBFirnv/dOM8ryWlZ1eu","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b44f348b2bd8d16ed1609"}
+4.6.2022, 14:41:39 - DEBUG - auth.service - login with username: dsada
+4.6.2022, 14:41:47 - DEBUG - auth.service - signup with username: 432, fullname: 432
+4.6.2022, 14:41:47 - DEBUG - auth.route - new account created: {"username":"432","fullname":"432","password":"$2b$10$VGqvLX2rvWyFOZYVTc8euuDdz8rRDeUSvm.PZi1fuYuhhQPZxZE4S","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b44fb48b2bd8d16ed160a"}
+4.6.2022, 14:41:47 - DEBUG - auth.service - login with username: 432
+4.6.2022, 14:41:54 - DEBUG - auth.service - signup with username: 31, fullname: 31
+4.6.2022, 14:41:54 - DEBUG - auth.route - new account created: {"username":"31","fullname":"31","password":"$2b$10$ikusR8mslRTl1uFfX4Vw8e1RDrNwhMvossJQJo367b9yQNqw7VsVi","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b450248b2bd8d16ed160b"}
+4.6.2022, 14:41:54 - DEBUG - auth.service - login with username: 31
+4.6.2022, 14:42:01 - DEBUG - auth.service - signup with username: papa, fullname: papa
+4.6.2022, 14:42:01 - DEBUG - auth.route - new account created: {"username":"papa","fullname":"papa","password":"$2b$10$4JL5D3EMKa1H2BlBITwrnuTtklemGhx6oL8NXvF8V6bj39FU30X1O","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b450948b2bd8d16ed160c"}
+4.6.2022, 14:42:01 - DEBUG - auth.service - login with username: papa
+4.6.2022, 14:42:08 - DEBUG - auth.service - signup with username: f3, fullname: f3f3
+4.6.2022, 14:42:08 - DEBUG - auth.route - new account created: {"username":"f3","fullname":"f3f3","password":"$2b$10$5DME/uu4JVFoKgKI3e1IHeOtnPRipIh.DjNjlWjxeiSQvNGfRqwCe","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b451048b2bd8d16ed160d"}
+4.6.2022, 14:42:08 - DEBUG - auth.service - login with username: f3
+4.6.2022, 14:42:18 - DEBUG - auth.service - login with username: nir
+4.6.2022, 15:01:02 - DEBUG - auth.service - login with username: user
+4.6.2022, 15:01:16 - DEBUG - auth.service - login with username: nir
+4.6.2022, 15:05:30 - DEBUG - auth.service - signup with username: AviCo, fullname: Avi Cohen
+4.6.2022, 15:05:30 - DEBUG - auth.route - new account created: {"username":"AviCo","fullname":"Avi Cohen","password":"$2b$10$p5FP9c/.i0c8HmDM.QvbquVJQdEj/jkH7pfqTtkaqV7DT/jQayhnS","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4a8a48b2bd8d16ed160e"}
+4.6.2022, 15:05:30 - DEBUG - auth.service - login with username: AviCo
+4.6.2022, 15:05:36 - DEBUG - auth.service - login with username: nir
+4.6.2022, 15:07:51 - DEBUG - auth.service - signup with username: gil2231@gmail.com, fullname: Gil Poliakov
+4.6.2022, 15:07:51 - DEBUG - auth.route - new account created: {"username":"gil2231@gmail.com","fullname":"Gil Poliakov","password":"$2b$10$D9pUYScJn5X.NgDPgYuPpuQNIbRgP5fEVP10OqiY7GosZwjgJ2phW","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4b1748b2bd8d16ed160f"}
+4.6.2022, 15:07:51 - DEBUG - auth.service - login with username: gil2231@gmail.com
+4.6.2022, 15:08:34 - DEBUG - auth.service - signup with username: Gregory128, fullname: Gregory Hiatt
+4.6.2022, 15:08:34 - DEBUG - auth.route - new account created: {"username":"Gregory128","fullname":"Gregory Hiatt","password":"$2b$10$6K2022lN87LZxMo3QCOq4er96AVs5afKGpesq2/.Rq4VvWHUPr4HG","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4b4248b2bd8d16ed1610"}
+4.6.2022, 15:08:34 - DEBUG - auth.service - login with username: Gregory128
+4.6.2022, 15:08:55 - DEBUG - auth.service - signup with username: darlene, fullname: Darlene Scott
+4.6.2022, 15:08:55 - DEBUG - auth.route - new account created: {"username":"darlene","fullname":"Darlene Scott","password":"$2b$10$o/SHratalsVVhBnA0FKu2eOpebWNfpa6BGDOW2oQ7FD3hmzAWuuFK","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4b5748b2bd8d16ed1611"}
+4.6.2022, 15:08:55 - DEBUG - auth.service - login with username: darlene
+4.6.2022, 15:09:17 - DEBUG - auth.service - signup with username: Seltzer780@gmail.com, fullname: Sherry Seltzer
+4.6.2022, 15:09:17 - DEBUG - auth.route - new account created: {"username":"Seltzer780@gmail.com","fullname":"Sherry Seltzer","password":"$2b$10$r4gsfQjdjON2KFKClzEzt.FNZyQG8TC5hpFB10sdQq30QuLOdjo2a","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4b6d48b2bd8d16ed1612"}
+4.6.2022, 15:09:17 - DEBUG - auth.service - login with username: Seltzer780@gmail.com
+4.6.2022, 15:09:49 - DEBUG - auth.service - signup with username: Matt1293@gmail.com, fullname: Matthew Watson
+4.6.2022, 15:09:49 - DEBUG - auth.route - new account created: {"username":"Matt1293@gmail.com","fullname":"Matthew Watson","password":"$2b$10$mcYELOHaIt4p7CUr7krJOO2vIpsnH/Q8MS1/yE8jHHCNXHYAiWEYy","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4b8d48b2bd8d16ed1613"}
+4.6.2022, 15:09:49 - DEBUG - auth.service - login with username: Matt1293@gmail.com
+4.6.2022, 15:10:13 - DEBUG - auth.service - signup with username: Trent Lewis, fullname: Trent Lewis
+4.6.2022, 15:10:13 - DEBUG - auth.route - new account created: {"username":"Trent Lewis","fullname":"Trent Lewis","password":"$2b$10$PPpECLHc56.0i5TGDIrknuITbj4RUfasXdBr2diMLbry/zuZZvuP6","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4ba548b2bd8d16ed1614"}
+4.6.2022, 15:10:13 - DEBUG - auth.service - login with username: Trent Lewis
+4.6.2022, 15:10:32 - DEBUG - auth.service - signup with username: William, fullname: William Boyles
+4.6.2022, 15:10:32 - DEBUG - auth.route - new account created: {"username":"William","fullname":"William Boyles","password":"$2b$10$b4EZj2DSZUJCn5xI9ISxMu7emtZFdX/RSt0AmKhKsDdrV7EaPl9BS","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4bb848b2bd8d16ed1615"}
+4.6.2022, 15:10:32 - DEBUG - auth.service - login with username: William
+4.6.2022, 15:10:53 - DEBUG - auth.service - signup with username: GarryH, fullname: Garry Higgins
+4.6.2022, 15:10:53 - DEBUG - auth.route - new account created: {"username":"GarryH","fullname":"Garry Higgins","password":"$2b$10$HycQsOXDGAUwwlAH.cd7YuCEWIZcLm5N5RpRxQ3VP2EdiQGhSXxyy","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4bcd48b2bd8d16ed1616"}
+4.6.2022, 15:10:53 - DEBUG - auth.service - login with username: GarryH
+4.6.2022, 15:12:11 - DEBUG - auth.service - signup with username: Ronk, fullname: Ron Katan
+4.6.2022, 15:12:11 - DEBUG - auth.route - new account created: {"username":"Ronk","fullname":"Ron Katan","password":"$2b$10$QCXnBk8Dsvds1Ed.sqDEWuOeM.Pd.E8zSohvCzke0BH8kGY9Q.9Ne","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4c1b48b2bd8d16ed1617"}
+4.6.2022, 15:12:11 - DEBUG - auth.service - login with username: Ronk
+4.6.2022, 15:12:33 - DEBUG - auth.service - signup with username: shlomiaz, fullname: Shlomi azulay
+4.6.2022, 15:12:33 - DEBUG - auth.route - new account created: {"username":"shlomiaz","fullname":"Shlomi azulay","password":"$2b$10$L81btZLeFcsrp79zKXa0gu4FeOP24mrFwEz12JyKW2nNvetMWPRwC","imgUrl":"","workouts":[],"nutritionMenus":[],"weight":[{"weight":"90","date":1640829196982},{"weight":"87","date":1638829196982},{"weight":"86","date":1632829196982},{"weight":"88","date":1627829196982},{"weight":"85","date":1621829196982}],"isAdmin":false,"_id":"629b4c3148b2bd8d16ed1618"}
+4.6.2022, 15:12:33 - DEBUG - auth.service - login with username: shlomiaz
+4.6.2022, 15:12:39 - DEBUG - auth.service - login with username: nir
+4.6.2022, 15:12:55 - DEBUG - auth.service - login with username: nir
+4.6.2022, 15:22:26 - DEBUG - auth.service - login with username: user
+4.6.2022, 15:22:56 - DEBUG - auth.service - login with username: nir
+4.6.2022, 15:24:36 - DEBUG - auth.service - login with username: nir
+4.6.2022, 15:25:31 - DEBUG - auth.service - login with username: nir
+4.6.2022, 15:25:38 - INFO - Req!!!
+4.6.2022, 15:25:38 - INFO - Req from: Nir Avisror
+4.6.2022, 15:34:35 - DEBUG - auth.service - login with username: nir
