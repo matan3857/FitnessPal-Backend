@@ -5646,3 +5646,10 @@
 4.6.2022, 15:25:38 - INFO - Req!!!
 4.6.2022, 15:25:38 - INFO - Req from: Nir Avisror
 4.6.2022, 15:34:35 - DEBUG - auth.service - login with username: nir
+7.6.2022, 12:05:50 - INFO - Server is running on port: 3030
+7.6.2022, 12:07:00 - DEBUG - auth.service - login with username: user
+7.6.2022, 12:07:12 - DEBUG - auth.service - login with username: user
+7.6.2022, 12:07:22 - DEBUG - auth.service - login with username: nir
+7.6.2022, 12:07:42 - DEBUG - auth.service - login with username: nir
+7.6.2022, 12:07:52 - INFO - Req!!!
+7.6.2022, 12:07:52 - INFO - Req from: Nir Avisror
